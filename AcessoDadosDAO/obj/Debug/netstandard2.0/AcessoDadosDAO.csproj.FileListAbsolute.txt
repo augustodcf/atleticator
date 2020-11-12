@@ -1,0 +1,9 @@
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\bin\Debug\netstandard2.0\AcessoDadosDAO.deps.json
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\bin\Debug\netstandard2.0\AcessoDadosDAO.dll
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.csprojAssemblyReference.cache
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.AssemblyInfoInputs.cache
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.AssemblyInfo.cs
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\bin\Debug\netstandard2.0\AcessoDadosDAO.pdb
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.csproj.CoreCompileInputs.cache
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.dll
+C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.pdb
