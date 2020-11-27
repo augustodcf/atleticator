@@ -14,30 +14,28 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <header>
-	<nav id="menu"> 
-		<h3>Associação Acadêmica Atlética Cybernética</h3>
-	</nav>
-</header>
+    
+
+    <div style="padding:4%">
+        <div id="spam"><asp:Label ID="lblRetorno" runat="server"></asp:Label></div>
+    </div>
     <form id="form1" runat="server">
 
-        <div class="container">
-       
+        <div class="container" >
+            <div class="loginwindow" style="background-color: hsl(89deg 11% 23% / 35%); margin-left:20%;  margin-right:20%">
+            <h3 style="text-align: center; color:white; padding:3%">Associação Acadêmica <br> Atlética Cybernética</h3>
            <asp:TextBox  type="hidden" ID="anchor" runat="server">
            </asp:TextBox>
            <asp:TextBox ID="logintoken" type="hidden" runat="server">
            </asp:TextBox>
 
-      <div>
-		    <figure>            
-		    <img src="img/logoCybernética3.png" id="foto-principal"/>
-		    </figure>
-    </div>
+         <div>
+		              
+		    <img src="img/logoCybernética3.gif" id="foto-principal"/>
+		    
+        </div>
           
-           <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
+     
         <div class="row col-sm-4 col-xs-12 mx-auto form-group">	    
                 <asp:TextBox TextMode="Email" ID="usuario" runat="server" placeholder="Email" class="form-control"/>
                 </div>            
@@ -56,8 +54,12 @@
             <div class="row col-sm-4 col-xs-12 mx-auto form-group col-xs-12"> 
                 <asp:Button  runat="server"  class="btn btn-primary"  Text="Acessar" id="btnAcessar"  OnClick="btnAcessar_Click" />
             </div>
+            <div style="padding:1%">
+             
+            </div>
+            </div>
+
             
-            <h1><asp:Label ID="lblRetorno" runat="server"></asp:Label></h1>
       
     </div>
     </form>

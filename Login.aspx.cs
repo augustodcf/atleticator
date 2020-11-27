@@ -61,23 +61,24 @@ namespace Web_Atletica
                     if (retornoConexao == true)
                     {
                         lblRetorno.Text = "Cliente Validado com Sucesso";
+                        
                     }
                     else
                     {
-                        lblRetorno.Text = "Cliente ou senha Inválidos";
+                        lblRetorno.Text = "<div  class='alert alert-warning' role='alert'> Cliente ou senha Inválidos </div>";
                     }
                 }
                 else
                 {
                     if (Email == "")
-                        lblRetorno.Text = "Login não preenchido";
+                        lblRetorno.Text = "<div  class='alert alert-warning' role='alert'> Login não preenchido </div>";
                     else
-                        lblRetorno.Text = "Senha não preenchida";
+                        lblRetorno.Text = "<div  class='alert alert-warning' role='alert'> Senha não preenchida </div>";
                 }
             }
             catch
             {
-                lblRetorno.Text = "Erro de conexão com o banco de dados";
+                lblRetorno.Text = "<div  class='alert alert-warning' role='alert'> Erro de conexão com o banco de dados </div>";
             }
         }
     }

@@ -1250,7 +1250,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -1524,7 +1524,7 @@
       ]
     },
     "System.Buffers/4.5.0": {
-      "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
+      "sha512": "xpHYjjtyTEpzMwtSQBWdVc3dPjLdQtvyUg6fBlBqcLl1r2Y7gDG/W/enAYOB98nG3oD3Q153Y2FBO8JDWd+0Xw==",
       "type": "package",
       "path": "system.buffers/4.5.0",
       "files": [
@@ -4527,19 +4527,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\detentor.patrimonio\\.nuget\\packages\\": {}
+    "C:\\Users\\Augusto\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\detentor.patrimonio\\OneDrive\\Documents\\DESENVOLVIMENTO_WEB\\atletica_proj\\AcessoDadosDAO\\AcessoDadosDAO.csproj",
+      "projectUniqueName": "C:\\Users\\Augusto\\Documents\\GitHub\\atleticator\\AcessoDadosDAO\\AcessoDadosDAO.csproj",
       "projectName": "AcessoDadosDAO",
-      "projectPath": "C:\\Users\\detentor.patrimonio\\OneDrive\\Documents\\DESENVOLVIMENTO_WEB\\atletica_proj\\AcessoDadosDAO\\AcessoDadosDAO.csproj",
-      "packagesPath": "C:\\Users\\detentor.patrimonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\detentor.patrimonio\\OneDrive\\Documents\\DESENVOLVIMENTO_WEB\\atletica_proj\\AcessoDadosDAO\\obj\\",
+      "projectPath": "C:\\Users\\Augusto\\Documents\\GitHub\\atleticator\\AcessoDadosDAO\\AcessoDadosDAO.csproj",
+      "packagesPath": "C:\\Users\\Augusto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Augusto\\Documents\\GitHub\\atleticator\\AcessoDadosDAO\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\detentor.patrimonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Augusto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4551,6 +4555,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -4562,6 +4567,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "MySql.Data": {
             "target": "Package",
@@ -4584,7 +4590,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

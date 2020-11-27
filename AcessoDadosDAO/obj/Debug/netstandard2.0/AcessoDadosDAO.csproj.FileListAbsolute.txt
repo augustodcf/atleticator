@@ -7,3 +7,12 @@ C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_pro
 C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.csproj.CoreCompileInputs.cache
 C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.dll
 C:\Users\detentor.patrimonio\OneDrive\Documents\DESENVOLVIMENTO_WEB\atletica_proj\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.pdb
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\bin\Debug\netstandard2.0\AcessoDadosDAO.deps.json
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\bin\Debug\netstandard2.0\AcessoDadosDAO.dll
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\bin\Debug\netstandard2.0\AcessoDadosDAO.pdb
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.csprojAssemblyReference.cache
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.AssemblyInfoInputs.cache
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.AssemblyInfo.cs
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.dll
+C:\Users\Augusto\Documents\GitHub\atleticator\AcessoDadosDAO\obj\Debug\netstandard2.0\AcessoDadosDAO.pdb
